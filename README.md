@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Omoomupo
+- 👋 Hi, I’m Moshood
 - 👀 I’m interested in learning web development
-- 🌱 I’m currently learning frontend ,
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently on the frontend path,
+- 💞️ I’m looking to collaborate on projects and also learn.
 - 📫 reach me on 08129068099.
 
 <!---
